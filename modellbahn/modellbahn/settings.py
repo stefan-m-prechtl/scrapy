@@ -1,4 +1,4 @@
-# Scrapy settings for helloworld project
+# Scrapy settings for modellbahn project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -7,14 +7,14 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'helloworld'
+BOT_NAME = 'modellbahn'
 
-SPIDER_MODULES = ['helloworld.spiders']
-NEWSPIDER_MODULE = 'helloworld.spiders'
-
+SPIDER_MODULES = ['modellbahn.spiders']
+NEWSPIDER_MODULE = 'modellbahn.spiders'
+FEED_EXPORT_ENCODING = 'utf-8'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'helloworld (+http://www.yourdomain.com)'
+#USER_AGENT = 'modellbahn (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
@@ -45,13 +45,13 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'helloworld.middlewares.HelloworldSpiderMiddleware': 543,
+#    'modellbahn.middlewares.ModellbahnSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'helloworld.middlewares.HelloworldDownloaderMiddleware': 543,
+#    'modellbahn.middlewares.ModellbahnDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -63,7 +63,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'helloworld.pipelines.HelloworldPipeline': 300,
+#    'modellbahn.pipelines.ModellbahnPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)

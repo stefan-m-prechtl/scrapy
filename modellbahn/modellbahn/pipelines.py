@@ -8,6 +8,7 @@
 from itemadapter import ItemAdapter
 
 
-class HelloworldPipeline:
+class ModellbahnPipeline:
     def process_item(self, item, spider):
+        print(item)
         return item

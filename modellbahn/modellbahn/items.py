@@ -6,7 +6,7 @@
 import scrapy
 
 
-class HelloworldItem(scrapy.Item):
+class ModellbahnItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass
