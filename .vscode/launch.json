@@ -8,7 +8,8 @@
             "module": "scrapy",
             "args": [
                 "runspider",
-                "./modellbahn/modellbahn/spiders/myspider.py"
+                "./modellbahn/modellbahn/spiders/maerklin.py"
+                "-O ./modellbahn/modellbahn/maerklin.json"
             ],
             "console": "integratedTerminal"
         }
