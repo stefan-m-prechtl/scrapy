@@ -34,9 +34,15 @@ class ModellbahnImagePipeline(ImagesPipeline):
         image_filename = f'{artnr}_{req_filename}.jpg'
         return image_filename
 
-    # def get_media_requests(self, item, info):
-    #     for image_url in item['image_urls']:
-    #         yield scrapy.Request(image_url)
+    def thumb_path(self, request, thumb_id, response=None, info=None, *, item=None):
+        artnr = item['artnr']
+        req_filename= request.url.split('/')[-1]
+        thumb_name =f"thumbs/{thumb_id}/{artnr}_{req_filename}.jpg"
+        return thumb_name
+
+    def get_media_requests(self, item, info):
+        for image_url in item['image_urls']:
+            yield scrapy.Request(image_url)
 
     # def item_completed(self, results, item, info):
     #     image_paths = [x['path'] for ok, x in results if ok]

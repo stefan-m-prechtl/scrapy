@@ -28,6 +28,11 @@ FEEDS = {
 IMAGES_STORE = '/home/etienne/Pictures/crawler'
 # 30 days of delay for images expiration
 IMAGES_EXPIRES = 30
+IMAGES_THUMBS = {
+    'small': (50, 50),
+    'middle': (256, 256)
+}
+
  
 # Keine Log-Ausgaben
 #LOG_ENABLED = True
