@@ -11,10 +11,27 @@ BOT_NAME = 'modellbahn'
 
 SPIDER_MODULES = ['modellbahn.spiders']
 NEWSPIDER_MODULE = 'modellbahn.spiders'
-FEED_EXPORT_ENCODING = 'utf-8'
+
+# wegen Umlauten: UTF-8 verwenden
+# FEED_EXPORT_ENCODING = 'utf-8'
+# Ausgabedatei für JSON
 FEEDS = {
-    'data.json': {'format': 'json'}
+    'data.json': {
+        'format': 'json',
+        'encoding': 'utf8',
+        'store_empty': False, 
+        'indent': 3
+    }
 }
+
+# Basisverzeichnis für Download der Bilder
+IMAGES_STORE = '/home/etienne/Pictures/crawler'
+# 30 days of delay for images expiration
+IMAGES_EXPIRES = 30
+ 
+# Keine Log-Ausgaben
+#LOG_ENABLED = True
+LOG_ENABLED = False
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'modellbahn (+http://www.yourdomain.com)'
@@ -66,7 +83,8 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    'modellbahn.pipelines.ModellbahnPipeline': 300
+    'modellbahn.pipelines.ModellbahnPipeline': 300,
+    'modellbahn.pipelines.ModellbahnImagePipeline': 300
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

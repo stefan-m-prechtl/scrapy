@@ -1,5 +1,1020 @@
 [
-{"bilder": ["https://static.maerklin.de/damcontent/7d/09/7d09ca17c032b0f145fea79d172f15511468513068.jpg", "https://static.maerklin.de/damcontent/7d/09/7d09ca17c032b0f145fea79d172f15511468513068.jpg", "https://static.maerklin.de/damcontent/5d/fa/5dfadc20a9e181e555b9dea5ebf063b21658153598.jpg", "https://static.maerklin.de/damcontent/5d/fa/5dfadc20a9e181e555b9dea5ebf063b21658153598.jpg"], "vorbild": "\"Donnerbüchse\"-Einheitswagen Bi der Deutschen Bundesbahn (DB). 2. Klasse.", "artnr": "4314", "epoche": "III", "modell": "Länge über Puffer 16 cm.", "ts": "2023-02-22 11:54:37"},
-{"bilder": ["https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg", "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg", "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg", "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg"], "vorbild": "Baureihe 89.0 der Deutschen Bundesbahn (DB). Einheitslokomotive.", "artnr": "30000", "epoche": "III", "modell": "Mit Digital-Decoder. 3 Achsen angetrieben. Haftreifen. Austauschbare Kupplungshaken. Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar.", "ts": "2023-02-22 11:54:37"},
-{"bilder": ["https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg", "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg", "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg", "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg", "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg", "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg", "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg", "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg", "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg", "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg"], "vorbild": "", "artnr": "36244", "epoche": "III", "modell": "Mit Digital-Decoder mfx und umfangreichen Geräuschfunktionen. Spezialmotor im Kessel. 3 Achsen angetrieben. Haftreifen. Kessel aus Metall. Rauchsatz 72270 serienmäßig eingebaut. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweißen Leuchtdioden (LED). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Vorne an der Lok Kurzkupplung im NEM-Schacht.", "ts": "2023-02-22 11:54:37"}
+{
+   "bilder": [
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg"
+   ],
+   "vorbild": "Baureihe 89.0 der Deutschen Bundesbahn (DB). Einheitslokomotive.",
+   "artnr": "30000",
+   "epoche": "III",
+   "modell": "Mit Digital-Decoder. 3 Achsen angetrieben. Haftreifen. Austauschbare Kupplungshaken. Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar.",
+   "ts": "2023-02-22 15:52:48"
+},
+{
+   "bilder": [
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg"
+   ],
+   "vorbild": "",
+   "artnr": "36244",
+   "epoche": "III",
+   "modell": "Mit Digital-Decoder mfx und umfangreichen Geräuschfunktionen. Spezialmotor im Kessel. 3 Achsen angetrieben. Haftreifen. Kessel aus Metall. Rauchsatz 72270 serienmäßig eingebaut. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweißen Leuchtdioden (LED). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Vorne an der Lok Kurzkupplung im NEM-Schacht.",
+   "ts": "2023-02-22 15:52:48"
+}
+][
+{
+   "bilder": [
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg"
+   ],
+   "vorbild": "Baureihe 89.0 der Deutschen Bundesbahn (DB). Einheitslokomotive.",
+   "artnr": "30000",
+   "epoche": "III",
+   "modell": "Mit Digital-Decoder. 3 Achsen angetrieben. Haftreifen. Austauschbare Kupplungshaken. Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar.",
+   "ts": "2023-02-22 15:55:59"
+},
+{
+   "bilder": [
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg"
+   ],
+   "vorbild": "",
+   "artnr": "36244",
+   "epoche": "III",
+   "modell": "Mit Digital-Decoder mfx und umfangreichen Geräuschfunktionen. Spezialmotor im Kessel. 3 Achsen angetrieben. Haftreifen. Kessel aus Metall. Rauchsatz 72270 serienmäßig eingebaut. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweißen Leuchtdioden (LED). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Vorne an der Lok Kurzkupplung im NEM-Schacht.",
+   "ts": "2023-02-22 15:55:59"
+}
+][
+{
+   "bilder": [
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg"
+   ],
+   "vorbild": "Baureihe 89.0 der Deutschen Bundesbahn (DB). Einheitslokomotive.",
+   "artnr": "30000",
+   "epoche": "III",
+   "modell": "Mit Digital-Decoder. 3 Achsen angetrieben. Haftreifen. Austauschbare Kupplungshaken. Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar.",
+   "ts": "2023-02-22 15:56:23"
+},
+{
+   "bilder": [
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg"
+   ],
+   "vorbild": "",
+   "artnr": "36244",
+   "epoche": "III",
+   "modell": "Mit Digital-Decoder mfx und umfangreichen Geräuschfunktionen. Spezialmotor im Kessel. 3 Achsen angetrieben. Haftreifen. Kessel aus Metall. Rauchsatz 72270 serienmäßig eingebaut. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweißen Leuchtdioden (LED). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Vorne an der Lok Kurzkupplung im NEM-Schacht.",
+   "ts": "2023-02-22 15:56:23"
+}
+][
+{
+   "bilder": [
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg"
+   ],
+   "vorbild": "Baureihe 89.0 der Deutschen Bundesbahn (DB). Einheitslokomotive.",
+   "artnr": "30000",
+   "epoche": "III",
+   "modell": "Mit Digital-Decoder. 3 Achsen angetrieben. Haftreifen. Austauschbare Kupplungshaken. Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar.",
+   "images": [],
+   "ts": "2023-02-22 16:02:02"
+},
+{
+   "bilder": [
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg"
+   ],
+   "vorbild": "",
+   "artnr": "36244",
+   "epoche": "III",
+   "modell": "Mit Digital-Decoder mfx und umfangreichen Geräuschfunktionen. Spezialmotor im Kessel. 3 Achsen angetrieben. Haftreifen. Kessel aus Metall. Rauchsatz 72270 serienmäßig eingebaut. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweißen Leuchtdioden (LED). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Vorne an der Lok Kurzkupplung im NEM-Schacht.",
+   "images": [],
+   "ts": "2023-02-22 16:02:02"
+}
+][
+{
+   "bilder": [
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg"
+   ],
+   "vorbild": "Baureihe 89.0 der Deutschen Bundesbahn (DB). Einheitslokomotive.",
+   "artnr": "30000",
+   "epoche": "III",
+   "modell": "Mit Digital-Decoder. 3 Achsen angetrieben. Haftreifen. Austauschbare Kupplungshaken. Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar.",
+   "image_urls": [
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg"
+   ],
+   "images": [
+      {
+         "url": "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+         "path": "full/a16d05ea0389d095f18a1b1383cea3bf14484c55.jpg",
+         "checksum": "c369f9cafa242df39bd38a6ca23aab52",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+         "path": "full/a16d05ea0389d095f18a1b1383cea3bf14484c55.jpg",
+         "checksum": "c369f9cafa242df39bd38a6ca23aab52",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+         "path": "full/c7ba2f896a75f42e54002abb3ad0a8557b612a7a.jpg",
+         "checksum": "79a309d18a2325b00da5ab238af6d1ea",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+         "path": "full/c7ba2f896a75f42e54002abb3ad0a8557b612a7a.jpg",
+         "checksum": "79a309d18a2325b00da5ab238af6d1ea",
+         "status": "downloaded"
+      }
+   ],
+   "ts": "2023-02-22 16:04:00"
+},
+{
+   "bilder": [
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg"
+   ],
+   "vorbild": "",
+   "artnr": "36244",
+   "epoche": "III",
+   "modell": "Mit Digital-Decoder mfx und umfangreichen Geräuschfunktionen. Spezialmotor im Kessel. 3 Achsen angetrieben. Haftreifen. Kessel aus Metall. Rauchsatz 72270 serienmäßig eingebaut. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweißen Leuchtdioden (LED). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Vorne an der Lok Kurzkupplung im NEM-Schacht.",
+   "image_urls": [
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg"
+   ],
+   "images": [
+      {
+         "url": "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+         "path": "full/10c319bcaafedb132fc9341a929a459bcaa6f549.jpg",
+         "checksum": "8eb61dfc7b844fe57c0b75e9aae99c60",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+         "path": "full/10c319bcaafedb132fc9341a929a459bcaa6f549.jpg",
+         "checksum": "8eb61dfc7b844fe57c0b75e9aae99c60",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+         "path": "full/b328980887acc0d8862bd544800b1bbbca27b567.jpg",
+         "checksum": "5209e7f779cdb193ae2b50328786f710",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+         "path": "full/b328980887acc0d8862bd544800b1bbbca27b567.jpg",
+         "checksum": "5209e7f779cdb193ae2b50328786f710",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+         "path": "full/ccb722afa46218cc3858170691c98e63b1b30aa5.jpg",
+         "checksum": "0c020a3f298333bfee8afc69dbaf9d55",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+         "path": "full/ccb722afa46218cc3858170691c98e63b1b30aa5.jpg",
+         "checksum": "0c020a3f298333bfee8afc69dbaf9d55",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+         "path": "full/ca154f05639b66b6f962b4889887b3a6dcdf4c20.jpg",
+         "checksum": "cd96dd5e465300648271efe40bea7240",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+         "path": "full/ca154f05639b66b6f962b4889887b3a6dcdf4c20.jpg",
+         "checksum": "cd96dd5e465300648271efe40bea7240",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+         "path": "full/fbd243dd1bca5826f0176be8547082e137a48a1a.jpg",
+         "checksum": "485d1bef0c21150c5909bb9c26678f96",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+         "path": "full/fbd243dd1bca5826f0176be8547082e137a48a1a.jpg",
+         "checksum": "485d1bef0c21150c5909bb9c26678f96",
+         "status": "downloaded"
+      }
+   ],
+   "ts": "2023-02-22 16:04:01"
+}
+][
+{
+   "bilder": [
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg"
+   ],
+   "vorbild": "Baureihe 89.0 der Deutschen Bundesbahn (DB). Einheitslokomotive.",
+   "artnr": "30000",
+   "epoche": "III",
+   "modell": "Mit Digital-Decoder. 3 Achsen angetrieben. Haftreifen. Austauschbare Kupplungshaken. Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar.",
+   "image_urls": [
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg"
+   ],
+   "ts": "2023-02-22 16:23:13"
+},
+{
+   "bilder": [
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg"
+   ],
+   "vorbild": "",
+   "artnr": "36244",
+   "epoche": "III",
+   "modell": "Mit Digital-Decoder mfx und umfangreichen Geräuschfunktionen. Spezialmotor im Kessel. 3 Achsen angetrieben. Haftreifen. Kessel aus Metall. Rauchsatz 72270 serienmäßig eingebaut. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweißen Leuchtdioden (LED). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Vorne an der Lok Kurzkupplung im NEM-Schacht.",
+   "image_urls": [
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg"
+   ],
+   "ts": "2023-02-22 16:23:13"
+}
+][
+{
+   "bilder": [
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg"
+   ],
+   "vorbild": "",
+   "artnr": "36244",
+   "epoche": "III",
+   "modell": "Mit Digital-Decoder mfx und umfangreichen Geräuschfunktionen. Spezialmotor im Kessel. 3 Achsen angetrieben. Haftreifen. Kessel aus Metall. Rauchsatz 72270 serienmäßig eingebaut. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweißen Leuchtdioden (LED). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Vorne an der Lok Kurzkupplung im NEM-Schacht.",
+   "image_urls": [
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg"
+   ],
+   "ts": "2023-02-22 16:24:03",
+   "images": [
+      {
+         "url": "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+         "path": "./full/36244_4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg.jpg",
+         "checksum": "8eb61dfc7b844fe57c0b75e9aae99c60",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+         "path": "./full/36244_4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg.jpg",
+         "checksum": "8eb61dfc7b844fe57c0b75e9aae99c60",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+         "path": "./full/36244_0ef369d98aaff085e8013fceb8781cf21596088848.jpg.jpg",
+         "checksum": "5209e7f779cdb193ae2b50328786f710",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+         "path": "./full/36244_0ef369d98aaff085e8013fceb8781cf21596088848.jpg.jpg",
+         "checksum": "5209e7f779cdb193ae2b50328786f710",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+         "path": "./full/36244_8691b8d35c06da46ba22593a8af6277c1484053769.jpg.jpg",
+         "checksum": "0c020a3f298333bfee8afc69dbaf9d55",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+         "path": "./full/36244_8691b8d35c06da46ba22593a8af6277c1484053769.jpg.jpg",
+         "checksum": "0c020a3f298333bfee8afc69dbaf9d55",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+         "path": "./full/36244_cec237221ddbfb9e54fb98e9448995371484053780.jpg.jpg",
+         "checksum": "cd96dd5e465300648271efe40bea7240",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+         "path": "./full/36244_cec237221ddbfb9e54fb98e9448995371484053780.jpg.jpg",
+         "checksum": "cd96dd5e465300648271efe40bea7240",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+         "path": "./full/36244_b41ef0c2e5bfc299face6f7828da23571660654074.jpg.jpg",
+         "checksum": "485d1bef0c21150c5909bb9c26678f96",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+         "path": "./full/36244_b41ef0c2e5bfc299face6f7828da23571660654074.jpg.jpg",
+         "checksum": "485d1bef0c21150c5909bb9c26678f96",
+         "status": "downloaded"
+      }
+   ]
+},
+{
+   "bilder": [
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg"
+   ],
+   "vorbild": "Baureihe 89.0 der Deutschen Bundesbahn (DB). Einheitslokomotive.",
+   "artnr": "30000",
+   "epoche": "III",
+   "modell": "Mit Digital-Decoder. 3 Achsen angetrieben. Haftreifen. Austauschbare Kupplungshaken. Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar.",
+   "image_urls": [
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg"
+   ],
+   "ts": "2023-02-22 16:24:03",
+   "images": [
+      {
+         "url": "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+         "path": "./full/30000_cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg.jpg",
+         "checksum": "c369f9cafa242df39bd38a6ca23aab52",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+         "path": "./full/30000_cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg.jpg",
+         "checksum": "c369f9cafa242df39bd38a6ca23aab52",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+         "path": "./full/30000_f8f2bb85adef435ec0f8a3baa25306581467045603.jpg.jpg",
+         "checksum": "79a309d18a2325b00da5ab238af6d1ea",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+         "path": "./full/30000_f8f2bb85adef435ec0f8a3baa25306581467045603.jpg.jpg",
+         "checksum": "79a309d18a2325b00da5ab238af6d1ea",
+         "status": "downloaded"
+      }
+   ]
+}
+][
+{
+   "bilder": [
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg"
+   ],
+   "vorbild": "Baureihe 89.0 der Deutschen Bundesbahn (DB). Einheitslokomotive.",
+   "artnr": "30000",
+   "epoche": "III",
+   "modell": "Mit Digital-Decoder. 3 Achsen angetrieben. Haftreifen. Austauschbare Kupplungshaken. Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar.",
+   "image_urls": [
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg"
+   ],
+   "ts": "2023-02-22 16:24:55",
+   "images": [
+      {
+         "url": "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+         "path": "30000_cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg.jpg",
+         "checksum": "c369f9cafa242df39bd38a6ca23aab52",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+         "path": "30000_cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg.jpg",
+         "checksum": "c369f9cafa242df39bd38a6ca23aab52",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+         "path": "30000_f8f2bb85adef435ec0f8a3baa25306581467045603.jpg.jpg",
+         "checksum": "79a309d18a2325b00da5ab238af6d1ea",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+         "path": "30000_f8f2bb85adef435ec0f8a3baa25306581467045603.jpg.jpg",
+         "checksum": "79a309d18a2325b00da5ab238af6d1ea",
+         "status": "uptodate"
+      }
+   ]
+},
+{
+   "bilder": [
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg"
+   ],
+   "vorbild": "",
+   "artnr": "36244",
+   "epoche": "III",
+   "modell": "Mit Digital-Decoder mfx und umfangreichen Geräuschfunktionen. Spezialmotor im Kessel. 3 Achsen angetrieben. Haftreifen. Kessel aus Metall. Rauchsatz 72270 serienmäßig eingebaut. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweißen Leuchtdioden (LED). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Vorne an der Lok Kurzkupplung im NEM-Schacht.",
+   "image_urls": [
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg"
+   ],
+   "ts": "2023-02-22 16:24:55",
+   "images": [
+      {
+         "url": "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+         "path": "36244_4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg.jpg",
+         "checksum": "8eb61dfc7b844fe57c0b75e9aae99c60",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+         "path": "36244_4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg.jpg",
+         "checksum": "8eb61dfc7b844fe57c0b75e9aae99c60",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+         "path": "36244_0ef369d98aaff085e8013fceb8781cf21596088848.jpg.jpg",
+         "checksum": "5209e7f779cdb193ae2b50328786f710",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+         "path": "36244_0ef369d98aaff085e8013fceb8781cf21596088848.jpg.jpg",
+         "checksum": "5209e7f779cdb193ae2b50328786f710",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+         "path": "36244_8691b8d35c06da46ba22593a8af6277c1484053769.jpg.jpg",
+         "checksum": "0c020a3f298333bfee8afc69dbaf9d55",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+         "path": "36244_8691b8d35c06da46ba22593a8af6277c1484053769.jpg.jpg",
+         "checksum": "0c020a3f298333bfee8afc69dbaf9d55",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+         "path": "36244_cec237221ddbfb9e54fb98e9448995371484053780.jpg.jpg",
+         "checksum": "cd96dd5e465300648271efe40bea7240",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+         "path": "36244_cec237221ddbfb9e54fb98e9448995371484053780.jpg.jpg",
+         "checksum": "cd96dd5e465300648271efe40bea7240",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+         "path": "36244_b41ef0c2e5bfc299face6f7828da23571660654074.jpg.jpg",
+         "checksum": "485d1bef0c21150c5909bb9c26678f96",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+         "path": "36244_b41ef0c2e5bfc299face6f7828da23571660654074.jpg.jpg",
+         "checksum": "485d1bef0c21150c5909bb9c26678f96",
+         "status": "uptodate"
+      }
+   ]
+}
+][
+{
+   "bilder": [
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg"
+   ],
+   "vorbild": "Baureihe 89.0 der Deutschen Bundesbahn (DB). Einheitslokomotive.",
+   "artnr": "30000",
+   "epoche": "III",
+   "modell": "Mit Digital-Decoder. 3 Achsen angetrieben. Haftreifen. Austauschbare Kupplungshaken. Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar.",
+   "image_urls": [
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg"
+   ],
+   "ts": "2023-02-22 16:24:59",
+   "images": [
+      {
+         "url": "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+         "path": "30000_cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg.jpg",
+         "checksum": "c369f9cafa242df39bd38a6ca23aab52",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+         "path": "30000_cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg.jpg",
+         "checksum": "c369f9cafa242df39bd38a6ca23aab52",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+         "path": "30000_f8f2bb85adef435ec0f8a3baa25306581467045603.jpg.jpg",
+         "checksum": "79a309d18a2325b00da5ab238af6d1ea",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+         "path": "30000_f8f2bb85adef435ec0f8a3baa25306581467045603.jpg.jpg",
+         "checksum": "79a309d18a2325b00da5ab238af6d1ea",
+         "status": "uptodate"
+      }
+   ]
+},
+{
+   "bilder": [
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg"
+   ],
+   "vorbild": "",
+   "artnr": "36244",
+   "epoche": "III",
+   "modell": "Mit Digital-Decoder mfx und umfangreichen Geräuschfunktionen. Spezialmotor im Kessel. 3 Achsen angetrieben. Haftreifen. Kessel aus Metall. Rauchsatz 72270 serienmäßig eingebaut. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweißen Leuchtdioden (LED). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Vorne an der Lok Kurzkupplung im NEM-Schacht.",
+   "image_urls": [
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg"
+   ],
+   "ts": "2023-02-22 16:24:59",
+   "images": [
+      {
+         "url": "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+         "path": "36244_4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg.jpg",
+         "checksum": "8eb61dfc7b844fe57c0b75e9aae99c60",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+         "path": "36244_4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg.jpg",
+         "checksum": "8eb61dfc7b844fe57c0b75e9aae99c60",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+         "path": "36244_0ef369d98aaff085e8013fceb8781cf21596088848.jpg.jpg",
+         "checksum": "5209e7f779cdb193ae2b50328786f710",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+         "path": "36244_0ef369d98aaff085e8013fceb8781cf21596088848.jpg.jpg",
+         "checksum": "5209e7f779cdb193ae2b50328786f710",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+         "path": "36244_8691b8d35c06da46ba22593a8af6277c1484053769.jpg.jpg",
+         "checksum": "0c020a3f298333bfee8afc69dbaf9d55",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+         "path": "36244_8691b8d35c06da46ba22593a8af6277c1484053769.jpg.jpg",
+         "checksum": "0c020a3f298333bfee8afc69dbaf9d55",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+         "path": "36244_cec237221ddbfb9e54fb98e9448995371484053780.jpg.jpg",
+         "checksum": "cd96dd5e465300648271efe40bea7240",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+         "path": "36244_cec237221ddbfb9e54fb98e9448995371484053780.jpg.jpg",
+         "checksum": "cd96dd5e465300648271efe40bea7240",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+         "path": "36244_b41ef0c2e5bfc299face6f7828da23571660654074.jpg.jpg",
+         "checksum": "485d1bef0c21150c5909bb9c26678f96",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+         "path": "36244_b41ef0c2e5bfc299face6f7828da23571660654074.jpg.jpg",
+         "checksum": "485d1bef0c21150c5909bb9c26678f96",
+         "status": "uptodate"
+      }
+   ]
+}
+][
+{
+   "bilder": [
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg"
+   ],
+   "vorbild": "Baureihe 89.0 der Deutschen Bundesbahn (DB). Einheitslokomotive.",
+   "artnr": "30000",
+   "epoche": "III",
+   "modell": "Mit Digital-Decoder. 3 Achsen angetrieben. Haftreifen. Austauschbare Kupplungshaken. Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar.",
+   "image_urls": [
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg"
+   ],
+   "ts": "2023-02-22 16:26:53",
+   "images": [
+      {
+         "url": "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+         "path": "30000_cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg.jpg",
+         "checksum": "c369f9cafa242df39bd38a6ca23aab52",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+         "path": "30000_cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg.jpg",
+         "checksum": "c369f9cafa242df39bd38a6ca23aab52",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+         "path": "30000_f8f2bb85adef435ec0f8a3baa25306581467045603.jpg.jpg",
+         "checksum": "79a309d18a2325b00da5ab238af6d1ea",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+         "path": "30000_f8f2bb85adef435ec0f8a3baa25306581467045603.jpg.jpg",
+         "checksum": "79a309d18a2325b00da5ab238af6d1ea",
+         "status": "uptodate"
+      }
+   ]
+},
+{
+   "bilder": [
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg"
+   ],
+   "vorbild": "",
+   "artnr": "36244",
+   "epoche": "III",
+   "modell": "Mit Digital-Decoder mfx und umfangreichen Geräuschfunktionen. Spezialmotor im Kessel. 3 Achsen angetrieben. Haftreifen. Kessel aus Metall. Rauchsatz 72270 serienmäßig eingebaut. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweißen Leuchtdioden (LED). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Vorne an der Lok Kurzkupplung im NEM-Schacht.",
+   "image_urls": [
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg"
+   ],
+   "ts": "2023-02-22 16:26:53",
+   "images": [
+      {
+         "url": "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+         "path": "36244_4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg.jpg",
+         "checksum": "8eb61dfc7b844fe57c0b75e9aae99c60",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+         "path": "36244_4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg.jpg",
+         "checksum": "8eb61dfc7b844fe57c0b75e9aae99c60",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+         "path": "36244_0ef369d98aaff085e8013fceb8781cf21596088848.jpg.jpg",
+         "checksum": "5209e7f779cdb193ae2b50328786f710",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+         "path": "36244_0ef369d98aaff085e8013fceb8781cf21596088848.jpg.jpg",
+         "checksum": "5209e7f779cdb193ae2b50328786f710",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+         "path": "36244_8691b8d35c06da46ba22593a8af6277c1484053769.jpg.jpg",
+         "checksum": "0c020a3f298333bfee8afc69dbaf9d55",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+         "path": "36244_8691b8d35c06da46ba22593a8af6277c1484053769.jpg.jpg",
+         "checksum": "0c020a3f298333bfee8afc69dbaf9d55",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+         "path": "36244_cec237221ddbfb9e54fb98e9448995371484053780.jpg.jpg",
+         "checksum": "cd96dd5e465300648271efe40bea7240",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+         "path": "36244_cec237221ddbfb9e54fb98e9448995371484053780.jpg.jpg",
+         "checksum": "cd96dd5e465300648271efe40bea7240",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+         "path": "36244_b41ef0c2e5bfc299face6f7828da23571660654074.jpg.jpg",
+         "checksum": "485d1bef0c21150c5909bb9c26678f96",
+         "status": "uptodate"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+         "path": "36244_b41ef0c2e5bfc299face6f7828da23571660654074.jpg.jpg",
+         "checksum": "485d1bef0c21150c5909bb9c26678f96",
+         "status": "uptodate"
+      }
+   ]
+}
+][
+{
+   "bilder": [
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg"
+   ],
+   "vorbild": "Baureihe 89.0 der Deutschen Bundesbahn (DB). Einheitslokomotive.",
+   "artnr": "30000",
+   "epoche": "III",
+   "modell": "Mit Digital-Decoder. 3 Achsen angetrieben. Haftreifen. Austauschbare Kupplungshaken. Dreilicht-Spitzensignal konventionell in Betrieb, digital schaltbar.",
+   "image_urls": [
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+      "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg"
+   ],
+   "ts": "2023-02-22 16:27:10",
+   "images": [
+      {
+         "url": "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+         "path": "30000_cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg.jpg",
+         "checksum": "c369f9cafa242df39bd38a6ca23aab52",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/cb/a2/cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg",
+         "path": "30000_cba247c0c66d1c9f6216cf1f597ecb801618315807.jpg.jpg",
+         "checksum": "c369f9cafa242df39bd38a6ca23aab52",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+         "path": "30000_f8f2bb85adef435ec0f8a3baa25306581467045603.jpg.jpg",
+         "checksum": "79a309d18a2325b00da5ab238af6d1ea",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/f8/f2/f8f2bb85adef435ec0f8a3baa25306581467045603.jpg",
+         "path": "30000_f8f2bb85adef435ec0f8a3baa25306581467045603.jpg.jpg",
+         "checksum": "79a309d18a2325b00da5ab238af6d1ea",
+         "status": "downloaded"
+      }
+   ]
+},
+{
+   "bilder": [
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg"
+   ],
+   "vorbild": "",
+   "artnr": "36244",
+   "epoche": "III",
+   "modell": "Mit Digital-Decoder mfx und umfangreichen Geräuschfunktionen. Spezialmotor im Kessel. 3 Achsen angetrieben. Haftreifen. Kessel aus Metall. Rauchsatz 72270 serienmäßig eingebaut. Fahrtrichtungsabhängig wechselndes Dreilicht-Spitzensignal und eingebauter Rauchsatz konventionell in Betrieb, digital schaltbar. Beleuchtung mit wartungsfreien warmweißen Leuchtdioden (LED). Kurzkupplung mit Kinematik zwischen Lok und Tender. Hinten am Tender kinematikgeführte Kurzkupplung mit NEM-Schacht. Vorne an der Lok Kurzkupplung im NEM-Schacht.",
+   "image_urls": [
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+      "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg"
+   ],
+   "ts": "2023-02-22 16:27:10",
+   "images": [
+      {
+         "url": "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+         "path": "36244_4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg.jpg",
+         "checksum": "8eb61dfc7b844fe57c0b75e9aae99c60",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/4c/8e/4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg",
+         "path": "36244_4c8e0a81452a714aa9b8e0c6f054bbf51484053775.jpg.jpg",
+         "checksum": "8eb61dfc7b844fe57c0b75e9aae99c60",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+         "path": "36244_0ef369d98aaff085e8013fceb8781cf21596088848.jpg.jpg",
+         "checksum": "5209e7f779cdb193ae2b50328786f710",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/0e/f3/0ef369d98aaff085e8013fceb8781cf21596088848.jpg",
+         "path": "36244_0ef369d98aaff085e8013fceb8781cf21596088848.jpg.jpg",
+         "checksum": "5209e7f779cdb193ae2b50328786f710",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+         "path": "36244_8691b8d35c06da46ba22593a8af6277c1484053769.jpg.jpg",
+         "checksum": "0c020a3f298333bfee8afc69dbaf9d55",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/86/91/8691b8d35c06da46ba22593a8af6277c1484053769.jpg",
+         "path": "36244_8691b8d35c06da46ba22593a8af6277c1484053769.jpg.jpg",
+         "checksum": "0c020a3f298333bfee8afc69dbaf9d55",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+         "path": "36244_cec237221ddbfb9e54fb98e9448995371484053780.jpg.jpg",
+         "checksum": "cd96dd5e465300648271efe40bea7240",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/ce/c2/cec237221ddbfb9e54fb98e9448995371484053780.jpg",
+         "path": "36244_cec237221ddbfb9e54fb98e9448995371484053780.jpg.jpg",
+         "checksum": "cd96dd5e465300648271efe40bea7240",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+         "path": "36244_b41ef0c2e5bfc299face6f7828da23571660654074.jpg.jpg",
+         "checksum": "485d1bef0c21150c5909bb9c26678f96",
+         "status": "downloaded"
+      },
+      {
+         "url": "https://static.maerklin.de/damcontent/b4/1e/b41ef0c2e5bfc299face6f7828da23571660654074.jpg",
+         "path": "36244_b41ef0c2e5bfc299face6f7828da23571660654074.jpg.jpg",
+         "checksum": "485d1bef0c21150c5909bb9c26678f96",
+         "status": "downloaded"
+      }
+   ]
+}
 ]
