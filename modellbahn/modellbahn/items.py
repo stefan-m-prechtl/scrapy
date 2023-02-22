@@ -9,7 +9,8 @@ import scrapy
 
 class ModellbahnItem(scrapy.Item):
     # Alle Attribute hier als Feld definieren:
-    # Attribute aus Request
+    url  = scrapy.Field()
+    # Attribute für Dateninhalte aus response
     vorbild = scrapy.Field()
     artnr  = scrapy.Field()
     art  = scrapy.Field()
@@ -18,8 +19,21 @@ class ModellbahnItem(scrapy.Item):
     betrieb = scrapy.Field()
     bilder = scrapy.Field()
     kataloge = scrapy.Field()
-    # Attribute per Code
+    # Zusatz-Attribute per Code gesetzt
+    # Timestamp
     ts = scrapy.Field()
-    # Attribute für Download von Images
+    # Attribute für Download von Images (von scrapy so gefordert!)
     image_urls = scrapy.Field()
     images = scrapy.Field()
+
+    def createEmptyItem(self):
+        self['vorbild'] =''
+        self['artnr'] = 'unbekannt'
+        self['vorbild'] = ''
+        self['art'] = ''
+        self['epoche'] = ''
+        self['modell'] = ''
+        self['betrieb'] = ''
+        self['kataloge'] = ''
+        self['bilder'] = []
+        self['image_urls'] = []

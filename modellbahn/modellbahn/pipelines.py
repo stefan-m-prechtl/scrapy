@@ -13,11 +13,10 @@ from datetime import datetime
 class ModellbahnPipeline:
 
     def open_spider(self, spider):
-        print("Spider geöffnet")
+        print("ModellbahnPipeline geöffnet")
         
     def close_spider(self, spider):
-        print("Spider geschlossen")
-
+        print("ModellbahnPipeline geschlossen")
 
     def process_item(self, item, spider):
         # for key, value in ItemAdapter(item).items():
