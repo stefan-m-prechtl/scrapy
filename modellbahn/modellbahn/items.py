@@ -12,3 +12,4 @@ class ModellbahnItem(scrapy.Item):
     epoche = scrapy.Field()
     modell = scrapy.Field()
     bilder = scrapy.Field()
+    ts = scrapy.Field()

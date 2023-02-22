@@ -3,11 +3,11 @@
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 
+from datetime import datetime
 
-# useful for handling different item types with a single interface
-from itemadapter import ItemAdapter
 
 class ModellbahnPipeline:
+
     def process_item(self, item, spider):
-        print(item)
+        item['ts'] = datetime.now()
         return item

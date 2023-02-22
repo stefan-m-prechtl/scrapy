@@ -12,6 +12,9 @@ BOT_NAME = 'modellbahn'
 SPIDER_MODULES = ['modellbahn.spiders']
 NEWSPIDER_MODULE = 'modellbahn.spiders'
 FEED_EXPORT_ENCODING = 'utf-8'
+FEEDS = {
+    'data.json': {'format': 'json'}
+}
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'modellbahn (+http://www.yourdomain.com)'
