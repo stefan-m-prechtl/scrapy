@@ -1,6 +1,5 @@
 import scrapy
-from scrapy.loader import ItemLoader
-from modellbahn.modellbahn.items import ModellbahnItem
+from modellbahn.items import ModellbahnItem
 
 class HelloworldSpider(scrapy.Spider):
     name = "maerklin"
@@ -15,12 +14,16 @@ class HelloworldSpider(scrapy.Spider):
 
 
     def parse(self, response):
-        loader = ItemLoader(item=ModellbahnItem(), response=response)
-        loader.add_css('modell', '.long-text::text')
-        loader.add_xpath('epoche','/html/body/container/div[1]/div[1]/div[2]/div[4]/div/div[2]/table/tr[3]/td/text()')
-        result = loader.load_item()
-        return result
-        
+
+        item = ModellbahnItem()
+        item['bilder'] = {}
+        item['vorbild'] = response.xpath('/html/body/container/div[1]/div[1]/div[2]/div[2]/div/p/text()').get().strip()
+        item['artnr'] = response.xpath('/html/body/container/div[1]/div[1]/div[2]/div[4]/div/div[2]/table/tr/td/span/text()').get().strip()
+        item['epoche'] = response.xpath('/html/body/container/div[1]/div[1]/div[2]/div[4]/div/div[2]/table/tr[3]/td/text()').get().strip()
+        item['modell'] = response.css('.long-text::text').get().strip()
+        item['bilder'] = [bild.attrib['href'] for bild in response.css('div.product-slider-big div a')]
+
+        return item
 
         # yield{
         #     'Vorbild' : response.xpath('/html/body/container/div[1]/div[1]/div[2]/div[2]/div/p/text()').get().strip(),

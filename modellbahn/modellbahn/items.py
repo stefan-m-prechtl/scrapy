@@ -6,6 +6,9 @@
 import scrapy
 
 class ModellbahnItem(scrapy.Item):
-    # define the fields for your item here like:
-    modell = scrapy.Field()
+    # Alle Attribute hier als Feld definieren
+    vorbild = scrapy.Field()
+    artnr  = scrapy.Field()
     epoche = scrapy.Field()
+    modell = scrapy.Field()
+    bilder = scrapy.Field()
