@@ -12,9 +12,12 @@ class ModellbahnItem(scrapy.Item):
     # Attribute aus Request
     vorbild = scrapy.Field()
     artnr  = scrapy.Field()
+    art  = scrapy.Field()
     epoche = scrapy.Field()
     modell = scrapy.Field()
+    betrieb = scrapy.Field()
     bilder = scrapy.Field()
+    kataloge = scrapy.Field()
     # Attribute per Code
     ts = scrapy.Field()
     # Attribute für Download von Images
